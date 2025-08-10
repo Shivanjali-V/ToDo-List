@@ -25,22 +25,23 @@ Data is persisted using a mock API server (`json-server`).
 
 ## Screenshots  
 - **Home Page**
- <img width="1919" height="1021" alt="Screenshot 2025-07-27 131054" src="https://github.com/user-attachments/assets/fd365062-fc35-42ba-9054-c93218bdd3b8" />
+ <img width="1919" height="1021" alt="HomePage" src="https://github.com/user-attachments/assets/89015a77-1095-40b9-89c5-b06e6d43cd96" />
 
 - **Adding Tasks**
- <img width="1919" height="1020" alt="Screenshot 2025-07-27 131156" src="https://github.com/user-attachments/assets/4bd0e611-f34f-40dc-9af3-e83570dee75c" />
- <img width="1919" height="1020" alt="Screenshot 2025-07-27 131206" src="https://github.com/user-attachments/assets/21ca687d-5ab4-4a07-9787-dd17c5ec1e52" />
+ <img width="1919" height="1020" alt="AddingTask" src="https://github.com/user-attachments/assets/a54e233f-23ae-46e5-8521-6c3d338e714c" />   
+ <img width="1919" height="1020" alt="AddingTask1" src="https://github.com/user-attachments/assets/90e0bd6e-065d-4f25-8cec-ac87c014d703" />
 
 - **Marking Tasks Completed**
- <img width="1904" height="1023" alt="Screenshot 2025-07-27 131606" src="https://github.com/user-attachments/assets/7f43004c-35a7-43e2-b605-f579f569ad81" />
- <img width="1919" height="1013" alt="Screenshot 2025-07-27 131621" src="https://github.com/user-attachments/assets/86eade8c-4038-448f-b266-84376bdc093f" />
+ <img width="1904" height="1023" alt="Image1" src="https://github.com/user-attachments/assets/dc844637-23bb-444e-a301-e22070836ad6" />
+ <img width="1919" height="1013" alt="Image2" src="https://github.com/user-attachments/assets/9a8cb6ee-5082-4e99-98bf-e02c7393cb69" />
 
 - **Empty List After Deleting Tasks**
- <img width="1919" height="1017" alt="Screenshot 2025-07-27 130957" src="https://github.com/user-attachments/assets/4070f317-fab3-448a-bfe6-aaa1006feb36" />
- <img width="1919" height="1005" alt="Screenshot 2025-07-27 131013" src="https://github.com/user-attachments/assets/9f246a0b-da2c-472b-9060-0c7862a784ef" />
+ <img width="1919" height="1017" alt="EmptyList" src="https://github.com/user-attachments/assets/ef7112d5-7462-4575-bbb9-a9632e4ce928" />
+ <img width="1919" height="1005" alt="EmptyList2" src="https://github.com/user-attachments/assets/a8870cca-668d-4eda-ba91-46301d410821" />
+
 
 - **When the App Fails to Fetch Data**
- <img width="1919" height="1015" alt="Screenshot 2025-07-27 140004" src="https://github.com/user-attachments/assets/2e49adb1-7325-4d2d-b763-e5eb47d9cb2d" />
+<img width="1919" height="1015" alt="ErrorImage" src="https://github.com/user-attachments/assets/73b6778e-336e-44ea-b13b-0ffc81d224a4" />
 
 ---
 
